@@ -1,0 +1,8 @@
+# Large video files
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Large files over 100MB
+example/*.mov
