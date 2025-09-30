@@ -1,0 +1,11 @@
+Model Information:
+* title:	2025 McLaren Artura Spider
+* source:	https://sketchfab.com/3d-models/2025-mclaren-artura-spider-d3a8925ab63f4c73a275c4058e847061
+* author:	carmodifier (https://sketchfab.com/carmodifier)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2025 McLaren Artura Spider" (https://sketchfab.com/3d-models/2025-mclaren-artura-spider-d3a8925ab63f4c73a275c4058e847061) by carmodifier (https://sketchfab.com/carmodifier) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
