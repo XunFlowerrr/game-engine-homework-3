@@ -2,4 +2,7 @@ Thanks to "2025 McLaren Artura Spider" (https://skfb.ly/pBCyL) by carmodifier is
 
 Example of render:
 
-[View Demo Video](./example/Screen%20Recording%202568-09-30%20at%2000.48.57.mov)
+<video width="600" controls>
+  <source src="./example/example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

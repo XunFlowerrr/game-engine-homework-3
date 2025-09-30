@@ -1,8 +1,9 @@
-# Large video files
+# Large video files (over 100MB)
 *.mov
-*.mp4
 *.avi
 *.mkv
+.DS_Store
 
-# Large files over 100MB
-example/*.mov
+# Allow small mp4 files (under 100MB)
+# But ignore large ones in example folder if needed
+# example/large-video.mp4
